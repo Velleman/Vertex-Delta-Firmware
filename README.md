@@ -1,4 +1,4 @@
-# Vertex Nano 3D Printer Firmware
+# Vertex Delta 3D Printer Firmware
 Based on the Marlin Firmware.
 Additional documentation can be found in [The Marlin Wiki](https://github.com/MarlinFirmware/Marlin/wiki).
 Also place our altered version of U8glib in your arduino libraries folder
